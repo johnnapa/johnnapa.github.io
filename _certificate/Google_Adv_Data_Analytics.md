@@ -36,5 +36,6 @@ Python Modules:
 - XGBoost
 
 Project links:
-Github Repository: [SALIFORT MOTORS EMPLOYEE RETENTION](https://github.com/johnnapa/Data-Analytics-Python-Projects/tree/main/SALIFORT%20MOTORS%20EMPLOYEE%20RETENTION)
-Kaggle:[Employee Retention Analysis (LogReg - DT/RF/XRG)](https://www.kaggle.com/code/cedricknapa/employee-retention-analysis-logreg-dt-rf-xrg?rvi=1)
+
+- Github Repository: [SALIFORT MOTORS EMPLOYEE RETENTION](https://github.com/johnnapa/Data-Analytics-Python-Projects/tree/main/SALIFORT%20MOTORS%20EMPLOYEE%20RETENTION)
+- Kaggle:[Employee Retention Analysis (LogReg - DT/RF/XRG)](https://www.kaggle.com/code/cedricknapa/employee-retention-analysis-logreg-dt-rf-xrg?rvi=1)

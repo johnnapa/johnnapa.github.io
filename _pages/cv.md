@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperurl: "https://johnnapa.github.io/files/Napa_CS50P_Certificate.pdf"
 redirect_from:
   - /resume
 ---
