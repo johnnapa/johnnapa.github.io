@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume PDF Copy](files\NAPA_John_Cedrick_Resume.pdf)
+[View PDF Copy]('http://johnnapa.github.io/files/Napa_John_Cedrick_Resume.pdf')
 
 # Data Analytics Skills
 
@@ -19,17 +19,17 @@ redirect_from:
 - Experience in data analysis and visualization in **MS Excel, Google Sheets and Tableau**.
 - Knowledge and experience in data analysis using **Python**
   - Python data structures and algorithms
-  - Python modules- Pandas, NumPy, Matplotlib, Seaborn, Scipy, Statsmodels, Sci-kit learn.
+  - Python modules: Pandas, NumPy, Matplotlib, Seaborn, Scipy, Statsmodels, Sci-kit learn.
 
-# Certificate
+# Certificates
 
   <ul>{% for post in site.certificate reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Work experience
+# Work Experience
 
-- **Packaging Development Specialist** October 2021 - November 2023:
+- **Packaging Development Specialist** October 2021 - November 2023
 
   - Scentral Lab Inc.
   - Duties includes:
