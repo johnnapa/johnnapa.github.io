@@ -21,10 +21,17 @@ Backed by my experience in Python, R, statistics, spreadsheets, and Tableau, I'm
 
 # Process
 
+<a href="https://johnnapa.github.io//portfolio/sql_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;">View SQL Projects </a>
+
 <img align="left" width="60" src="https://johnnapa.github.io/images/new/chart_2.png" />
 
 # Visualize
 
-<img align="left" width="70" src="https://johnnapa.github.io/images/new/chart_3.png" />
+<a href="https://johnnapa.github.io//portfolio/spreadsheet_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;">View SpreadSheet Projects </a>
+<a href="https://johnnapa.github.io//portfolio/tableau_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;">View Tableau Projects </a>
+
+<img align="left" width="70" src="https://johnnapa.github.io/images/new/chart_1.png" />
 
 # Analyze
+
+<a href="https://johnnapa.github.io//portfolio/python_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;">View Python Projects </a>
