@@ -3,13 +3,12 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperurl:'http://johnnapa.github.io/files/Napa_John_Cedrick_Resume.pdf'
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
-[View PDF Copy]('http://johnnapa.github.io/files/Napa_John_Cedrick_Resume.pdf')
 
 # Data Analytics Skills
 
@@ -31,7 +30,7 @@ redirect_from:
 
 - **Packaging Development Specialist** October 2021 - November 2023
 
-  - Scentral Lab Inc.
+  - Scentral Laboratories Incorporated
   - Duties includes:
     - Managed database of all Packaging Materials used
     - Streamlined previous development processes to improve data collection and experimentation
@@ -45,11 +44,11 @@ redirect_from:
 
 # Education
 
-- **Cum Laude Graduate from Bachelor of Science in Materials Engineering**
+- **Bachelor of Science in Materials Engineering** (Cum Laude)
 
   - University of the Philippines, Diliman
   - Class of 2021
 
-- **High School Diploma**
+- **Secondary Education Diploma**
   - Colegio San Agustin, Makati
   - Class of 2016
