@@ -3,7 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-paperurl:'http://johnnapa.github.io/files/Napa_John_Cedrick_Resume.pdf'
 redirect_from:
   - /resume
 ---
