@@ -1,10 +1,17 @@
 ---
 permalink: /
-title: "John Cedrick V. Napa"
+title: "John Cedrick Napa"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi Camille Fabros. I Love You
+A Data Enthusiast from Taguig City, Philippines  
+Robust understanding and hands-on experience in data processing, visualization and analysis.
+
+# About Me
+
+In everything I do, I've always had a knack for learning new things. And in the world of data science, where information is always pouring in, I couldn't be more thrilled. Pairing my love for learning with my fascination for programming, I've charted my course to become a professional in the field of data science.
+
+Backed by my experience in Python, R, statistics, spreadsheets, and Tableau, I'm eager to dive into diverse datasets and uncover valuable insights. Let's connect and explore the endless possibilities of data together. Contact me to embark on your data-driven journey.
