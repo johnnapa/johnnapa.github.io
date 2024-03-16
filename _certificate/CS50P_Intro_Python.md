@@ -3,8 +3,11 @@ title: "CS50 Introduction to Programming with Python"
 collection: certificate
 type: "Undergraduate course"
 permalink: /certificate/CS50P_Intro_Python
-date: 2023-01-01
+paperurl: "https://johnnapa.github.io/files/Napa_CS50P_Certificate.pdf"
+date: 2023-12-11
 ---
+
+Training on fundamentals of programming such as data structures and algorithms using Python. Included nine problem sets and one final project for completion
 
 ## Fundamentals of Programming with Python
 
@@ -16,4 +19,6 @@ date: 2023-01-01
 
 ### End-of Course Project:
 
-Python
+**Computer Terminal Ordring System and Inventory Mangement**
+
+- Conditional Statement, Object Manipulation, Data Structures, File I/O
