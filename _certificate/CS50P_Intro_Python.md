@@ -1,7 +1,7 @@
 ---
 title: "CS50 Introduction to Programming with Python"
 collection: certificate
-type: "Undergraduate course"
+type: "Certification course"
 permalink: /certificate/CS50P_Intro_Python
 paperurl: "https://johnnapa.github.io/files/Napa_CS50P_Certificate.pdf"
 date: 2023-12-11

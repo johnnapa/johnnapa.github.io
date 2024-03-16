@@ -9,5 +9,8 @@ main:
   - title: "Certificate"
     url: /certificate/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Talks"
+  #  url: /talks/
+
+  #- title: "Publications"
+  #  url: /publications/

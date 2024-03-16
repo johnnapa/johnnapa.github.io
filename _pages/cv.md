@@ -3,13 +3,13 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-paperurl: "https://johnnapa.github.io/files/Napa_CS50P_Certificate.pdf"
+paperurl: "https://johnnapa.github.io/files/NAPA_John_Cedrick_Resume.pdf"
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-View [here](https://johnnapa.github.io/files/Napa_CS50P_Certificate.pdf)
+View [here](https://johnnapa.github.io/files/NAPA_John_Cedrick_Resume.pdf)
 
 # Data Analytics Skills
 
