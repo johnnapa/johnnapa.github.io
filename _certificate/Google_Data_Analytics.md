@@ -1,7 +1,7 @@
 ---
 title: "Google Data Analytics"
 collection: certificate
-type: "Undergraduate course"
+type: "Certification Course"
 permalink: /certificate/Google_Data_Analytics
 paperurl: "https://johnnapa.github.io/files/Napa_Google_Data_Analytic_Professional_Certificate.pdf"
 date: 2024-02-01

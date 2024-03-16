@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+View [here](https://johnnapa.github.io/files/Napa_CS50P_Certificate.pdf)
 
 # Data Analytics Skills
 

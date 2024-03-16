@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'certificate' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ page.type }}, {{ page.date }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -50,7 +50,7 @@ layout: default
         {% if page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.paperurl %}
-          <p style="font-size: smaller">View Certificate: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ here }}</u></a></p>
+          <p style="font-size: smaller">View Certificate: <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }} </p>
         {% endif %}
