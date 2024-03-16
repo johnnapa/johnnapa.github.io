@@ -9,56 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Resume PDF Copy](files\NAPA_John_Cedrick_Resume.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Data Analytics Skills
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Management of various datasets from data collection to data analysis.
+- Analyze experimental data through various Statistical Treatments, Hypothesis Testing, Inferential Methods, and Regression Analysis
+- Knowledgeable in **SQL** concepts such as data inquiry, joins and creation
+- Experience in data analysis and visualization in **MS Excel, Google Sheets and Tableau**.
+- Knowledge and experience in data analysis using **Python**
+  - Python data structures and algorithms
+  - Python modules- Pandas, NumPy, Matplotlib, Seaborn, Scipy, Statsmodels, Sci-kit learn.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Certificate
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.certificate reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+# Work experience
+
+- **Packaging Development Specialist** October 2021 - November 2023:
+
+  - Scentral Lab Inc.
+  - Duties includes:
+    - Managed database of all Packaging Materials used
+    - Streamlined previous development processes to improve data collection and experimentation
+    - Analyze experimental data through various statistical treatments and inferential methods.
+    - Closely coordinate with marketing, regulatory, and production for all packaging related topics.
+    - Write reports on evaluations and results of experimentations.
+
+- **Research Intern** August 2020- May 2021
+  - Manly Plastics Incorporated
+  - Duties included: Managed and developed Non-moving Materials Database
+
+# Education
+
+- **Cum Laude Graduate from Bachelor of Science in Materials Engineering**
+
+  - University of the Philippines, Diliman
+  - Class of 2021
+
+- **High School Diploma**
+  - Colegio San Agustin, Makati
+  - Class of 2016
