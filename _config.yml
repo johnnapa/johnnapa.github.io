@@ -191,7 +191,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  certificate:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -224,10 +224,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _certificate
   - scope:
       path: ""
-      type: teaching
+      type: certificate
     values:
       layout: single
       author_profile: true

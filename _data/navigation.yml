@@ -4,10 +4,10 @@ main:
     url: /cv/
 
   - title: "Portfolio"
-    url: /portfolio/    
+    url: /portfolio/
 
   - title: "Certificate"
-    url: /certificate/    
-   
+    url: /certificate/
+
   - title: "Blog Posts"
-    url: /year-archive/    
+    url: /year-archive/
