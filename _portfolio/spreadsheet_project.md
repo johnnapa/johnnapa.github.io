@@ -1,6 +1,6 @@
 ---
 title: "SpreadSheet Projects"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Compilation of all SpreadSheet Data Analysis<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

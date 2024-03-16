@@ -1,6 +1,6 @@
 ---
-title: "Pytthon Projects"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Python Projects"
+excerpt: "Compilation of all Python Data Analysis<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

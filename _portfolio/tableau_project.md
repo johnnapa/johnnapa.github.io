@@ -1,6 +1,6 @@
 ---
 title: "Tableau Projects"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Compilation of all Tableau Visualizations and Dashboards<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
