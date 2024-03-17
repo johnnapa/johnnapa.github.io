@@ -1,6 +1,6 @@
 ---
 title: "Python Projects"
-excerpt: "Compilation of Python Data Analysis<br/><img src='/images/python_p.png'>"
+excerpt: "Compilation of Python Data Analysis<br/><img src='/images/python_p.png' style='max-width: 200px;'>"
 collection: portfolio
 ---
 

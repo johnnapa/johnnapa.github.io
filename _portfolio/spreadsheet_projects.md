@@ -1,6 +1,6 @@
 ---
 title: "SpreadSheet Projects"
-excerpt: "Compilation of SpreadSheet Data Analysis<br/><img src='/images/excel_p.png'>"
+excerpt: "Compilation of SpreadSheet Data Analysis<br/><img src='/images/excel_p.png' style='max-width: 200px;'>"
 collection: portfolio
 ---
 

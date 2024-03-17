@@ -1,6 +1,6 @@
 ---
 title: "SQL Projects"
-excerpt: "Compilation of SQL Queries<br/><img src='/images/sql_p.png'>"
+excerpt: "Compilation of SQL Queries<br/><img src='/images/sql_p.png' style='max-width: 200px;'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Tableau Projects"
-excerpt: "Compilation of Tableau Visualizations and Dashboards<br/><img src='/images/tableau_p.png'>"
+excerpt: "Compilation of Tableau Visualizations and Dashboards<br/><img src='/images/tableau_p.png' style='max-width: 200px;'>"
 collection: portfolio
 ---
 
