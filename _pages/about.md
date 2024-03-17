@@ -15,10 +15,8 @@ Robust understanding and hands-on experience in data processing, visualization a
 <img align="right" width="180" src="https://johnnapa.github.io/images/new/Bg_1.png" />
 In everything I do, I've always had a knack for learning new things. And in the world of data science, where information is always pouring in, I couldn't be more thrilled. Pairing my love for learning with my fascination for programming, I've charted my course to become a professional in the field of data science.
 
-Backed by my experience in Python, R, statistics, spreadsheets, and Tableau, I'm eager to dive into diverse datasets and uncover valuable insights. Let's connect and explore the endless possibilities of data together. Contact me to embark on your data-driven journey.
-<br>
-<br>
-<br>
+Backed by my experience in Python, statistics, spreadsheets, and Tableau, I'm eager to dive into diverse datasets and uncover valuable insights. Let's connect and explore the endless possibilities of data together. Contact me to embark on your data-driven journey.
+
 <img align="left" width="35" hspace="10" src="https://johnnapa.github.io/images/new/chart_3.png" />
 
 ## Process
