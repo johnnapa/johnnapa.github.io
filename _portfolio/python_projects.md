@@ -4,7 +4,7 @@ excerpt: "Compilation of all Python Data Analysis<br/><img src='/images/500x300.
 collection: portfolio
 ---
 
-## Employee Retention Data Analysis
+## 1. Employee Retention Data Analysis
 
 <img align="right" width="400" src="https://johnnapa.github.io//portfolio/assets/employee_data.jpg" />
 
@@ -25,5 +25,12 @@ The Human Resources Depertment and Executives of Salifort Motors wish to identif
 - Python Notebook: [Salifort Motors Employee Retention Data Analytics Project](https://github.com/johnnapa/Data-Analytics-Python-Projects/blob/main/SALIFORT%20MOTORS%20EMPLOYEE%20RETENTION/%5B1%5D%20Salifort%20Motors%20Capstone%20Project.ipynb)
 - Github Repository: [SALIFORT MOTORS EMPLOYEE RETENTION](https://github.com/johnnapa/Data-Analytics-Python-Projects/tree/main/SALIFORT%20MOTORS%20EMPLOYEE%20RETENTION)
 - Kaggle:[Employee Retention Analysis (LogReg - DT/RF/XRG)](https://www.kaggle.com/code/cedricknapa/employee-retention-analysis-logreg-dt-rf-xrg?rvi=1)
+
+**References:**
+[Vector image](https://www.freepik.com/free-vector/remote-meeting-concept-illustration_11906661.htm#query=employee&position=50&from_view=keyword&track=sph&uuid=73b847c2-e718-49cb-a817-d7599b24f194)
+[Kaggle Dataset](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
+
+<br>
+<br>
 
 [VIEW MORE PYTHON PROJECTS](https://github.com/johnnapa/Data-Analytics-Python-Projects)

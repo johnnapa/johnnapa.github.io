@@ -26,5 +26,5 @@ Training on fundamentals of Data Analytics using SpreadSheets, SQL, Tableau and 
 
 Project links:
 
-- Kaggle:[Cyclist Bike Share Trips 2023 Analysis](https://www.kaggle.com/code/cedricknapa/cyclist-bike-share-trips-2023-analysis)
+- Kaggle: [Cyclist Bike Share Trips 2023 Analysis](https://www.kaggle.com/code/cedricknapa/cyclist-bike-share-trips-2023-analysis)
 - Tableau: [Cyclist Bike Share 2023](https://public.tableau.com/app/profile/john.cedrick.napa/viz/CyclistBikeShare2023/Dashboard1)
