@@ -19,13 +19,13 @@ Backed by my experience in Python, statistics, spreadsheets, and Tableau, I'm ea
 
 <img align="left" width="35" hspace="10" src="https://johnnapa.github.io/images/new/chart_3.png" />
 
-## Process
+# Process
 
 <a href="https://johnnapa.github.io//portfolio/sql_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;"> View SQL Projects </a>
 
 <img align="left" width="35" hspace="10" src="https://johnnapa.github.io/images/new/chart_2.png" />
 
-## Visualize
+# Visualize
 
 <a href="https://johnnapa.github.io//portfolio/spreadsheet_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;"> View SpreadSheet Projects </a>
 
@@ -33,6 +33,6 @@ Backed by my experience in Python, statistics, spreadsheets, and Tableau, I'm ea
 
 <img align="left" width="35" hspace="10" src="https://johnnapa.github.io/images/new/chart_1.png" />
 
-## Analyze
+# Analyze
 
 <a href="https://johnnapa.github.io//portfolio/python_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;"> View Python Projects </a>
