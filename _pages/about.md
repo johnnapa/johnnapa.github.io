@@ -27,4 +27,6 @@ Backed by my experience in Python, statistics, spreadsheets, and Tableau, I'm ea
 
 <a href="https://johnnapa.github.io//portfolio/[1]python_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;"> View Python Projects </a>
 
+<!---
 <a href="https://johnnapa.github.io//portfolio/[4]sql_projects" style="color: #545454; text-decoration: underline;text-decoration-style: dotted;"> View SQL Projects </a>
+-->
