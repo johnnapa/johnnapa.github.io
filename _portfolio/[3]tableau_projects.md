@@ -15,7 +15,7 @@ Comparison of Member and Casual users of a bike sharing application. Visualizati
 
 - Data Analytics
 
-![dashboard.PNG](https://johnnapa.github.io//portfolio/assets/cyclist_bike_share_viz.PNG)
+![dashboard.PNG](https://johnnapa.github.io//portfolio/assets/cyclist_bike_share_viz.png)
 
 **Links:**
 
