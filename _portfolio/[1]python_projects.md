@@ -9,7 +9,7 @@ collection: portfolio
 <img align="right" width="400" src="https://johnnapa.github.io//portfolio/assets/employee_data.jpg" />
 
 **Overview:**
-The Human Resources Depertment and Executives of Salifort Motors wish to identify the cause of low employee retention in the company. They request for a data analysis on a survey done and a predictive model to direct the company into retaining more employees in the future.
+The Human Resources Department and Executives of Salifort Motors wish to identify the cause of low employee retention in the company. They request for a data analysis on a survey done and a predictive model to direct the company into retaining more employees in the future.
 
 **Machine learning Algorithms:**
 
