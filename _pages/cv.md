@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-View [here](https://johnnapa.github.io/files/NAPA_John_Cedrick_Resume.pdf)
+View here: [NAPA_John_Cedrick_Resume.pdf](https://johnnapa.github.io/files/NAPA_John_Cedrick_Resume.pdf)
 
 # Data Analytics Skills
 
