@@ -14,7 +14,8 @@ View here: [NAPA_John_Cedrick_Resume.pdf](https://johnnapa.github.io/files/NAPA_
 # Data Analytics Skills
 
 - Management of various datasets from data collection to data analysis.
-- Analyze experimental data through various Statistical Treatments, Hypothesis Testing, Inferential Methods, and Regression Analysis
+- Experience in Data Analytics using various **Spreadsheet Functions, Pivot Tables** and **VBA Macros**.
+- Analyze experimental data through various Statistical Treatments, Hypothesis Testing, Inferential Methods, Regression Analysis, Machine Learning Models
 - Knowledgeable in **SQL** concepts such as data inquiry, joins and creation
 - Experience in data analysis and visualization in **MS Excel, Google Sheets and Tableau**.
 - Knowledge and experience in data analysis using **Python**
@@ -33,15 +34,15 @@ View here: [NAPA_John_Cedrick_Resume.pdf](https://johnnapa.github.io/files/NAPA_
 
   - Scentral Laboratories Incorporated
   - Duties includes:
-    - Managed database of all Packaging Materials used
-    - Streamlined previous development processes to improve data collection and experimentation
-    - Analyze experimental data through various statistical treatments and inferential methods.
+    - Managed database of all Packaging Materials used in Excel and Google Sheets.
+    - Streamlined previous development processes to improve data collection and experimentation.
+    - Analyze experimental data through various statistical treatments and inferential methods in Excel.
     - Closely coordinate with marketing, regulatory, and production for all packaging related topics.
     - Write reports on evaluations and results of experimentations.
 
 - **Research Intern** August 2020- May 2021
   - Manly Plastics Incorporated
-  - Duties included: Managed and developed Non-moving Materials Database
+  - Duties included: Managed and developed Non-moving Materials Database in Google Sheets
 
 # Education
 
