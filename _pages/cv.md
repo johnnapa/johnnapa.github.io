@@ -14,11 +14,11 @@ View here: [NAPA_John_Cedrick_Resume.pdf](https://johnnapa.github.io/files/NAPA_
 # Data Analytics Skills
 
 - Management of various datasets from data collection to data analysis.
-- Experience in Data Analytics using various **Spreadsheet Functions, Pivot Tables** and **VBA Macros**.
 - Analyze experimental data through various Statistical Treatments, Hypothesis Testing, Inferential Methods, Regression Analysis, Machine Learning Models
 - Knowledgeable in **SQL** concepts such as data inquiry, joins and creation
-- Experience in data analysis and visualization in **MS Excel, Google Sheets and Tableau**.
-- Knowledge and experience in data analysis using **Python**
+- Experience in data analysis and visualization in **MS Excel, Google Sheets and Python Notebooks**.
+- Experience in creating dashboards and reports in **Spreadsheets, AWS Quicksight, Tableau, and PowerBI**.
+- Knowledge and experience in data analysis using **Python and Pyspark**
   - Python data structures and algorithms
   - Python modules: Pandas, NumPy, Matplotlib, Seaborn, Scipy, Statsmodels, Sci-kit learn.
 
@@ -29,6 +29,21 @@ View here: [NAPA_John_Cedrick_Resume.pdf](https://johnnapa.github.io/files/NAPA_
   {% endfor %}</ul>
 
 # Work Experience
+
+- **Jr. Data Scientist** May 2024 - Present
+
+  -Infinit-O
+
+  - Duties includes:
+    - Collaborate with teams to create data-driven solutions for complex business challenges.
+    - Partner with Data Engineers to ingest and integrate data into systems for analysis.
+    - Develop ETL scripts in PySpark to streamline data cleaning and transformation.
+    - Build SQL data models to enhance data accessibility and support decision-making.
+    - Design interactive dashboards and reports to provide actionable insights for stakeholders.
+    - Oversee and optimize data processes for consistent, uninterrupted operations.
+    - Automate manual data transformation workflows using PySpark to increase efficiency.
+    - Work closely with the Data Team to improve system performance and reduce costs.
+    - Evaluate data assets in current systems to ensure smooth migration to new platforms.
 
 - **Packaging Development Specialist** October 2021 - November 2023
 

@@ -17,7 +17,7 @@ In everything I do, I've always had a knack for learning new things. And in the 
   
 As a goal-oriented individual, I constantly strive to set specific, measurable, achievable, relevant, and time-bound (SMART) goals that align with my values and aspirations, and I relentlessly pursue them with dedication, perseverance, and a growth mindset.  
   
-Backed by my experience in **Python, statistics, spreadsheets, and Tableau**, I'm eager to dive into diverse datasets and uncover valuable insights. Let's connect and explore the endless possibilities of data together. Contact me to embark on your data-driven journey.
+Backed by my experience in **Python, statistics, spreadsheets, AWS and Microsoft Fabric**, I'm eager to dive into diverse datasets and uncover valuable insights. Let's connect and explore the endless possibilities of data together. Contact me to embark on your data-driven journey.
 
 ## Notable Projects
 
